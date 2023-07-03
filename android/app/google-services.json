@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "104865382995",
+    "project_id": "photo-reader-9fc8d",
+    "storage_bucket": "photo-reader-9fc8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104865382995:android:26f39299a6076583c1fca6",
+        "android_client_info": {
+          "package_name": "cpp.edu.real_first_flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104865382995-2lpiob6irre67lfokppqcttbssr47a9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWLRcrMHMUwtABtktgOXelR0Pvc2JkwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104865382995-2lpiob6irre67lfokppqcttbssr47a9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104865382995:android:9ccc7536581dd970c1fca6",
+        "android_client_info": {
+          "package_name": "test.package"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104865382995-2lpiob6irre67lfokppqcttbssr47a9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWLRcrMHMUwtABtktgOXelR0Pvc2JkwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104865382995-2lpiob6irre67lfokppqcttbssr47a9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

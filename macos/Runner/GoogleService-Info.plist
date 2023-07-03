@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>104865382995-banlht56rd8t7dd82bfjk9s0ukk3e8s8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.104865382995-banlht56rd8t7dd82bfjk9s0ukk3e8s8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBR5Cz4uVGy2JDQ-f59aRWIG4LWL6bOnrc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>104865382995</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cpp.edu.realFirstFlutterProject.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>photo-reader-9fc8d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photo-reader-9fc8d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:104865382995:ios:33ed81956c618ffcc1fca6</string>
+</dict>
+</plist>
