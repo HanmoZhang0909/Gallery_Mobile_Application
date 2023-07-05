@@ -1,0 +1,4 @@
+storePassword=302515608
+keyPassword=302515608
+keyAlias=upload
+storeFile=C:\Users\zhang\upload-keystore.jks
